@@ -1,1 +1,3 @@
-/.project
+.*
+/install.sh
+maven-metadata-local.xml

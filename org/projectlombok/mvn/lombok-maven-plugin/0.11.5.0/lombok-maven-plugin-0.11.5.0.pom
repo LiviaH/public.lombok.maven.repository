@@ -5,4 +5,5 @@
   <groupId>org.projectlombok.mvn</groupId>
   <artifactId>lombok-maven-plugin</artifactId>
   <version>0.11.5.0</version>
+  <packaging>maven-plugin</packaging>
 </project>
